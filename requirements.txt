@@ -1,0 +1,2 @@
+Версия Python: 3.10 - 3.13
+Библиотеки Python: pandas, pytest, PySide6
